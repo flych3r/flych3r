@@ -22,7 +22,7 @@ I'm from Fortaleza, Brazil and currently working at [Insight Data Science Lab](h
 </a>
 
 
-<a href="https://github.com/flycher/spotify-tracker">
+<a href="https://github.com/flych3r/spotify-tracker">
   <img  width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flych3r&repo=spotify-tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/flych3r/cloud-computing-video-subtitles">
