@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Matheus Xavier and i'm a Data Scientist / Python Developer. 
+My name is Matheus Xavier and I'm a Data Scientist / Python Developer. 
 
 I'm from Fortaleza, Brazil and currently working at [Insight Data Science Lab](https://insightlab.ufc.br/).
 
