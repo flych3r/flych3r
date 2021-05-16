@@ -1,9 +1,10 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Matheus Xavier and I'm a Data Scientist / Python Developer. 
 
 I'm from Fortaleza, Brazil and currently working at [Insight Data Science Lab](https://insightlab.ufc.br/).
 
+## My coding preferences and stats
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
@@ -21,6 +22,7 @@ I'm from Fortaleza, Brazil and currently working at [Insight Data Science Lab](h
   <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=flych3r&count_private=true&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
+## Some of my cool projects
 
 <a href="https://github.com/flych3r/spotify-tracker">
   <img  width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flych3r&repo=spotify-tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
