@@ -22,8 +22,8 @@ I'm from Fortaleza, Brazil and currently working at [Insight Data Science Lab](h
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
 <a href="https://wakatime.com/@flych3r">
-  <img  width="49%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@flych3r&layout=compact&line_width=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img  width="49%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@flych3r&layout=compact&theme=dracula" />
 </a>
 <a href="https://github.com/flych3r">
-  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=flych3r&count_private=true&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=flych3r&count_private=true&show_icons=true&theme=dracula" alt="Martin's GitHub Stats" />
 </a>
