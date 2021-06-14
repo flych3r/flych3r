@@ -4,8 +4,8 @@ My name is Matheus Xavier and I'm a Data Scientist / Python Developer.
 
 I'm from Fortaleza, Brazil and currently working at [Insight Data Science Lab](https://insightlab.ufc.br/).
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.kaggle.com/fycher/)
-[<img src="https://img.shields.io/badge/kaggle-%2320beff.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.linkedin.com/in/mxaviersampaio/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mxaviersampaio/)
+[<img src="https://img.shields.io/badge/kaggle-%2320beff.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/fycher/)
 [<img src="https://img.shields.io/badge/HackerRank-%232dc163.svg?&style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/flych3r/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/flych3r/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/flych3r/)
