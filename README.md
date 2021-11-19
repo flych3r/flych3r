@@ -2,7 +2,7 @@
 
 My name is Matheus Xavier and I'm a Data Scientist / Python Developer. 
 
-I'm from Fortaleza, Brazil, currently doing my master's degree in Computer Science at Unicamp and working at [Insight Data Science Lab](https://insightlab.ufc.br/).
+I'm from Fortaleza, Brazil, currently doing my master's degree in Computer Science at Unicamp and working at Petz.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mxaviersampaio/)
 [<img src="https://img.shields.io/badge/kaggle-%2320beff.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/fycher/)
@@ -21,9 +21,11 @@ I'm from Fortaleza, Brazil, currently doing my master's degree in Computer Scien
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
+<!--
 <a href="https://wakatime.com/@flych3r">
   <img  width="49%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@flych3r&layout=compact&theme=dracula" />
 </a>
+ -->
 <a href="https://github.com/flych3r">
   <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=flych3r&count_private=true&show_icons=true&theme=dracula" alt="Martin's GitHub Stats" />
 </a>
