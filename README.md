@@ -1,8 +1,8 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Matheus Xavier and I'm a Data Scientist / Python Developer. 
+My name is Matheus Xavier and I'm a Data Scientist with a strong interest  Python Development. 
 
-I'm from Fortaleza, Brazil, currently doing my master's degree in Computer Science at Unicamp and working at Petz.
+I'm from Fortaleza, Brazil, currently doing my master's degree in Computer Science at Unicamp and working as a Data Analyst at Petz.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mxaviersampaio/)
 [<img src="https://img.shields.io/badge/kaggle-%2320beff.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/fycher/)
