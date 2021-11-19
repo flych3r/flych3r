@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Matheus Xavier and I'm a Data Scientist with a strong interest  Python Development. 
+My name is Matheus Xavier and I'm a Data Scientist with a strong interest software engineering, especially Python. 
 
 I'm from Fortaleza, Brazil, currently doing my master's degree in Computer Science at Unicamp and working as a Data Analyst at Petz.
 
